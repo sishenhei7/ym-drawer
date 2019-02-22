@@ -59,14 +59,14 @@ export default {
 
 #### Attributes
 
-| param             | explain                          | type              | required    | default value    |
+| param             | explain                          | type              | required    | Default value    |
 | ----------------- | -------------------------------- | ----------------- | ----------- | ---------------- |
-| open              | whether is open                  | Boolean           | yes         | Optional value   |
-| right             | whether position is right        | Boolean           |             | Optional value   |
-| docked            | whether is decked                | Boolean           |             | Optional value   |
-| width             | width value                      | [Number, String]  |             | Optional value   |
-| zDepth            | z-index value                    | Number            |             | Optional value   |
-| overlayClick      | callback when clicking overlay   | Function          |             | Optional value   |
+| open              | whether is open                  | Boolean           | yes         |                  |
+| right             | whether position is right        | Boolean           |             |                  |
+| docked            | whether is decked                | Boolean           |             | true             |
+| width             | width value                      | [Number, String]  |             |                  |
+| zDepth            | z-index value                    | Number            |             | 100              |
+| overlayClick      | callback when clicking overlay   | Function          |             |                  |
 
 
 ## ToDo
