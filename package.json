@@ -1,0 +1,22 @@
+{
+  "name": "ym-drawer",
+  "version": "1.0.1",
+  "description": "drawer used to build mobile navbar or other commponents。Largely refered to muse-ui。",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sishenhei7/ym-drawer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sishenhei7/ym-drawer/issues"
+  },
+  "homepage": "https://github.com/sishenhei7/ym-drawer#readme",
+  "dependencies": {
+    "body-scroll-lock": "^2.6.1"
+  }
+}
