@@ -35,6 +35,7 @@ You can use YmDrawerHorizontal as a vue component anywhere like this:
     </ym-drawer-horizontal>
   </div>
 </template>
+
 <script>
 export default {
   name: 'home',
@@ -50,6 +51,7 @@ export default {
   },
 }
 </script>
+
 <style lang="scss">
 .ym-drawer--horizontal {
   background-color: #333;
