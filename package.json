@@ -1,6 +1,6 @@
 {
   "name": "ym-drawer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "drawer used to build mobile navbar or other commponents。Largely refered to muse-ui。",
   "main": "lib/index.js",
   "scripts": {
