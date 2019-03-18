@@ -1,4 +1,4 @@
-## ym-svg-sprite
+## ym-drawer
 
 <a href="https://www.npmjs.com/package/ym-drawer">
   <img src="https://img.shields.io/npm/v/ym-drawer.svg" alt="NPM">
@@ -7,7 +7,11 @@
   <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="LICENSE">
 </a>
 
-`ym-drawer` is used to build mobile navbar or other commponents。
+`ym-drawer` can be used to do these fancy things:
+
+- build mobile navbar
+- build mobile ui components with PC ui libraries like element-ui
+- become a container to show various data
 
 Largely refered to [muse-ui](https://github.com/museui/muse-ui)。
 
@@ -73,4 +77,4 @@ export default {
 
 ## ToDo
 
-- [ ] complete YmDrawerVertical component.
+- [x] complete YmDrawerVertical component.
